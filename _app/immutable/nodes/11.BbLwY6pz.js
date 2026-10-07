@@ -1104,7 +1104,7 @@ var _a = E('<div class="infoRow svelte-1crl0ly"><span class="infoKey svelte-1crl
     xa = E(`<p class="desc modalText svelte-1crl0ly">You're about to open <strong> </strong>:</p> <p class="modalUrl svelte-1crl0ly"> </p>`, 1),
     ka = E('<p class="desc modalText svelte-1crl0ly">No link is set for <strong> </strong> yet.</p>'),
     Ba = E('<div class="modal svelte-1crl0ly" role="dialog" aria-modal="true" aria-label="External link"><button class="modalBackdrop svelte-1crl0ly" aria-label="Close dialog"></button> <div class="modalBox svelte-1crl0ly"><p class="modalTitle svelte-1crl0ly">Leaving OSV7</p> <!> <div class="buttons svelte-1crl0ly"><button class="toggleBtn">Cancel</button> <button class="actionBtn svelte-1crl0ly"> </button> <button class="actionBtn active svelte-1crl0ly">Continue to site</button></div></div></div>'),
-    Sa = E('<h1>About</h1> <div class="group"><div class="subGroup"><p class="subHeading">OSV7</p> <p class="desc">very tuff indeed</p> <div class="infoRows svelte-1crl0ly"></div></div> <div class="subGroup"><p class="subHeading">Tech Stack</p> <p class="desc">Svelte &#x3E; react</p> <div class="content"></div></div></div> <div class="divider"></div> <div class="group"><div class="subGroup"><p class="subHeading">Credits</p> <div class="content"></div></div> <div class="subGroup"><p class="subHeading">Contact</p> <div class="content"><div class="infoRows svelte-1crl0ly"><div class="infoRow svelte-1crl0ly"><span class="infoKey svelte-1crl0ly">DC User</span> <span class="infoVal svelte-1crl0ly">rogo7070</span></div> <div class="infoRow svelte-1crl0ly"><span class="infoKey svelte-1crl0ly">Email</span> <span class="infoVal svelte-1crl0ly">rogo@galxy.it.com</span></div></div></div></div></div> <!>', 1);
+    Sa = E('<h1>About</h1> <div class="group"><div class="subGroup"><p class="subHeading">OSV7</p> <p class="desc">very tuff indeed</p> <div class="infoRows svelte-1crl0ly"></div></div> <div class="subGroup"><p class="subHeading">Tech Stack</p> <p class="desc">Svelte &#x3E; react</p> <div class="content"></div></div></div> <div class="divider"></div> <div class="group"><div class="subGroup"><p class="subHeading">Credits</p> <div class="content"></div></div> <div class="subGroup"><p class="subHeading">Contact</p> <div class="content"><div class="infoRows svelte-1crl0ly"><div class="infoRow svelte-1crl0ly"><span class="infoKey svelte-1crl0ly">DC User</span> <span class="infoVal svelte-1crl0ly">9g80</span></div> <div class="infoRow svelte-1crl0ly"><span class="infoKey svelte-1crl0ly">Email</span> <span class="infoVal svelte-1crl0ly">Shhh</span></div></div></div></div></div> <!>', 1);
 
 function Ra(e) {
     const a = "v7.0",
@@ -1114,19 +1114,19 @@ function Ra(e) {
             value: a
         }, {
             key: "Developer",
-            value: "Rogo"
+            value: "9g80"
         }, {
             key: "Released",
             value: "2026"
         }],
         n = [{
-            label: "Galax",
-            labeltwo: "yV7 Source",
-            url: "https://gitlab.com/Hydra.Network/OS/OSv7"
+            label: "OS/Galaxy",
+            labeltwo: "OS/Galaxy Source",
+            url: "https://github.com/9g80/OS"
         }, {
             label: "Disc",
             labeltwo: "ord Server",
-            url: "https://tinyurl.com/OSiscool"
+            url: "about:blank"
         }, {
             label: "Scra",
             labeltwo: "mjet",
